@@ -90,7 +90,7 @@
         When set to false, users must wait 3 hours after installing the app to be able to download
         any wallpapers
     -->
-    <bool name="immediate_download">false</bool>
+    <bool name="immediate_download">true</bool>
 
     <!--    These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
